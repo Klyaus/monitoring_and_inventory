@@ -15,7 +15,7 @@ django-material==1.1.1
 idna==2.6
 kombu==4.1.0
 oauthlib==2.0.4
-paramiko==2.3.3
+paramiko==2.10.1
 pyasn1==0.3.6
 pycparser==2.18
 PyNaCl==1.1.2
